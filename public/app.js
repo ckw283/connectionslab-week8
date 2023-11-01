@@ -5,7 +5,7 @@ socket.on("connect", () => {
 })
 
 function setup() {
-    createCanvas(400, 400);
+    createCanvas(700,700);
     background("#ffffff");
 
 
